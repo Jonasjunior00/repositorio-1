@@ -1,5 +1,5 @@
-<footer class="container alert-info">
-    <div class="container">
+'<footer class="container alert-info">
+'    <div class="container">
         <div class="row">
             <div class="col text-center py-3">
                 <ul class="list-group list-group-flush noBackground">
@@ -17,6 +17,7 @@
                     <li class="list-group-item noBackground">Cras justo odio</li>
                     <br>
                     <li class="list-group-item noBackground">Dapibus ac facilisis in</li>
+                    <br>
                     <li class="list-group-item noBackground">Morbi leo risus</li>
                 </ul>
             </div>
